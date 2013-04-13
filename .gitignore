@@ -1,3 +1,4 @@
+*
 #ignore all but
 !.gitignore
 !*.c
