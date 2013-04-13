@@ -1,4 +1,3 @@
-*
 #ignore all but
 !.gitignore
 !*.c
@@ -7,3 +6,5 @@
 !*.py
 !*.in
 !*.out
+
+*
